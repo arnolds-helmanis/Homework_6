@@ -139,8 +139,3 @@ public class ScannerTryCatch1 {
 	}
 
 }
-
-// ja es 74. rindā izmantoju scan.nextInt() un attiecīgi izdzēsu 70. rindu, tad programma pārleca/izlaida 94.
-// rindu. Šajā situācijā, ja es 74. rindā ievadīju skaitli un pēc atstarpes vārdu, tad 94. rindā tika
-// izmantots vārds pēc atstarpes no 74. rindas.
-// Kāpēc tā?
