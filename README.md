@@ -1,5 +1,5 @@
 # Homework_6
-Homework in university for practising 'scanner' and 'try-catch' block. The homework consists of 4 tasks.
+Homework in university for practising 'scanner' and 'try-catch' block. The homework consists of 4 tasks.</br>
 Task 1 - Ask the user to input a sentence, then determine what kind of sentence  it is(narrative, question or exclamatory) and how many words does it contains.
 Task 2 - Ask the user to enter which part of the text the user wants to replace and with what kind of text.
 Task 3 - Ask the user to enter the number of which position the user wants to remove a word from entered sentence and then display the sentence without the removed word.
